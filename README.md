@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, seja bem vindo!
 Eu me chamo Daniel Alvares, sou um engenheiro agrônomo me descobrindo cada vez mais apaixonado por programação e dados.
 
-- 🔭 Atualmente estou estudando **Python aplicado para Data Science.**
+- 🔭 Atualmente estou estudando **Python voltado para Data Science.**
 
 </br>
 
