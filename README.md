@@ -1,11 +1,10 @@
 ### Hey, seja bem vindo!
 Eu me chamo Daniel Alvares, sou um engenheiro agrônomo me descobrindo cada vez mais apaixonado por programação e dados.
 
-- 🔭 Atualmente estou estudando **Python voltado para Data Science.**
-
-</br>
+- Atualmente estou estudando **Python voltado para Data Science.**
 
 ### 📫 Como me contactar
-<p align="left"><a href="https://linkedin.com/in/danalvares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danalvares" height="30" width="40" /></a></p>
+- [Linkedin](https://linkedin.com/in/danalvares)
 
-</br>
+### Últimos projetos:
+- [Climaterbot](https://github.com/dan-alvares/CLIMATERBOT): um bot para Telegram construído em Python usando a biblioteca Aiogram, fornecendo visualização de dados agroclimáticos, suas médias e séries temporais com a aplicação do Matplotlib. TCC do meu curso de pós-graduação na UFF.
