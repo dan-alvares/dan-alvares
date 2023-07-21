@@ -1,7 +1,8 @@
 ### Hey, seja bem vindo!
 Eu me chamo Daniel Alvares, sou um engenheiro agrônomo apaixonado por programação, automação, machine learning e dados.
 
-- Atualmente estou estudando **Python voltado para Data Science.**
+- Python (Alura)
+- Formado em Data Science (IBM Coursera)
 
 ### 📫 Como me contactar
 - [Linkedin](https://linkedin.com/in/danalvares)
