@@ -1,5 +1,5 @@
 ### Hey, seja bem vindo!
-Eu me chamo Daniel Alvares, sou um engenheiro agrônomo me descobrindo cada vez mais apaixonado por programação e dados.
+Eu me chamo Daniel Alvares, sou um engenheiro agrônomo apaixonado por programação, automação, machine learning e dados.
 
 - Atualmente estou estudando **Python voltado para Data Science.**
 
