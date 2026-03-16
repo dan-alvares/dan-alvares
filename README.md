@@ -9,4 +9,4 @@ Eu me chamo Daniel Alvares, sou um engenheiro agrônomo apaixonado por programa�
 
 ### Últimos projetos:
 - [Telegram Downloader](https://github.com/dan-alvares/telegram_downloader): CLI para facilitar o download de vídeos de grupos e canais no app Telegram.
-- [Climaterbot](https://github.com/dan-alvares/CLIMATERBOT): um bot para Telegram construído em Python usando a biblioteca Aiogram, fornecendo visualização de dados agroclimáticos, suas médias e séries temporais com a aplicação do Matplotlib. TCC do meu curso de pós-graduação na UFF.
+- [Climaterbot](https://github.com/dan-alvares/CLIMATERBOT): um bot para Telegram que fornece visualização de dados agroclimáticos - TCC do meu curso de pós-graduação na UFF.
